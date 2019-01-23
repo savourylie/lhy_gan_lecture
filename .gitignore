@@ -3,4 +3,5 @@ data/
 
 # Local settings
 sftp-config.json
+.DS_Store
 
